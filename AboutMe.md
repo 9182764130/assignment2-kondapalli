@@ -12,3 +12,5 @@ the below table shows the famous location in a cities and time we need to spend 
 |    --- |       --- |          --- |
 |Hyderabd| Charminar|  2 Hrs | 
 |Delhi|   Airport|    5Hrs|
+|vizag| Beach|6 Hrs|
+Delhi|Parliament| 3 Hrs|
