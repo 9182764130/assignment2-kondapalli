@@ -14,3 +14,9 @@ the below table shows the famous location in a cities and time we need to spend 
 |Delhi|   Airport|    5Hrs|
 |vizag| Beach|6 Hrs|
 Delhi|Parliament| 3 Hrs|
+
+***
+
+### quotations
+> The greatest glory in living lies not in never falling, but in rising every time we fall *Nelson Mandela*
+> Spread love everywhere you go. Let no one ever come to you without leaving happier *Mother Teresa*
