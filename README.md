@@ -34,28 +34,24 @@ Delhi|Parliament| 3 Hrs|
 ***
 
 ### code fencing
->  I am trying to create a drop down in css, i have finished writing the css code, but the drop down pushes all my other objects on the screen down and that is not what i want, i want to show the dropdown in front of the objects instead at the top "which would end up pushibg then down".
-> **[click here to go to the source](https://stackoverflow.com/questions/73603925/how-to-use-z-index-in-css-to-bring-div-to-the-front-of-another-div)**
+>  Doesn’t take any JavaScript or anything. You just have the form’s target attribute match the iframe’s name attribute.The outer page doesn’t even reload. But it might appear to at first glance since many browsers run the page-loading spinner in the tab when an iframe reloads.
+> **[click here to go to the source](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)**
 ```
-<div class="drop-down-container">
-                <h1>Recommended</h1>
-                <div class="dropdown-content-background">
-                    <div class="dropdown-contents">
-                        <div class="dropdown-content">
-                            <i class="material-icons">videocam</i>
-                            <span>Create</span>
-                        </div>
-                        <div class="dropdown-content">
-                            <i class="material-icons">settings</i>
-                            <span>Settings</span>
-                        </div>
-                        <div class="dropdown-content">
-                            <i class="material-icons">person</i>
-                            <span>Switch Account</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+ ```
+            **[click here to go to the source](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)**
+
+
+
             ```
             **[click here to go to the source](https://stackoverflow.com/questions/73603925/how-to-use-z-index-in-css-to-bring-div-to-the-front-of-another-div)**
 
