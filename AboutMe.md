@@ -6,10 +6,9 @@ uday kiran kondapalli wants to become a software developer.
 
 ### exploring cities
 the below table shows the famous location in a cities and time we need to spend in that particular location.
- | City       | Location        | Time To Spend |
- | ---        |    ---          |   --- :       |
- | Hyderabad  | Charminar       | 02            |
- | Vijayawada | Prakasam Barage | 01            |
- | Delhi      | Parliament      | 03            |
- | Mumbai     | Taj Hotel       | 04            |
 
+
+|City |  Location | Time To Spend |
+|    --- |       --- |          --- |
+|Hyderabd| Charminar|  2 Hrs | 
+|Delhi|   Airport|    5Hrs|
