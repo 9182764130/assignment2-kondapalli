@@ -3,7 +3,7 @@
 ### salar jung museum ###
 well if you like to know more about your **history** then this is the place you should go. It is filled with a never **exhausting** treasure of knowledge.
 ***
-***ordered list and unordered list***
+### ordered list and unordered list
 1. rajiv gandhi international airport 
 2. book an uber cab from rajiv gandhi international airport to salar jung museum                                      
 3. take the walk to Lakdi-ka-pul 
