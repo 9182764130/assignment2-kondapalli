@@ -1,7 +1,7 @@
 # assignment2-kondapalli
 # uday kiran kondapalli
 ### salar jung museum ###
-well if you like to know more about your **history** then this is the place you should go. It is filled with a never *exhausting* treasure of knowledge.
+well if you like to know more about your **history** then this is the place you should go. It is filled with a never **exhausting** treasure of knowledge.
 ***
 ### ordered list and unordered list
 1. rajiv gandhi international airport 
